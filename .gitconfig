@@ -1,0 +1,9 @@
+[user]
+	name=G1aD0S
+	email=baka_g1ad0s@proton.me
+
+[commit]
+	verbose=true
+
+[alias]
+	s=status

@@ -1,9 +1,17 @@
 [user]
 	name=G1aD0S
 	email=baka_g1ad0s@proton.me
+	signingkey=4858C243CC9F8CBB
 
 [commit]
 	verbose=true
+	gpgsign=true
+
+[gpg]
+	program=C:\\Program Files (x86)\\GnuPG\bin\\gpg.exe
+
+[core]
+	sshCommand=C:\\Windows\\System32\\OpenSSH\\ssh.exe
 
 [alias]
 	s=status
